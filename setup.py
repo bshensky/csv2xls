@@ -35,6 +35,6 @@ setup(
         'csv_to_xls'
     ],
     install_requires=[
-        'xlwt==0.7.5',
+        'xlwt>=0.7.5',
     ],
 )
